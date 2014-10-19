@@ -65,6 +65,18 @@ nav li a {
   text-decoration: none;
 }
 
+footer {
+  background-color: #1F342B;
+  color: #CD7C1F;
+  font-family: sans-serif;
+  height: 60px;
+  line-height: 4em;
+  position: absolute;
+  text-align: center;
+  top: 850px;
+  width: 100%;
+}
+
 @font-face{
     font-family: "CoventryGarden";
     src: url('../fonts/COVENTRY.TTF'),
